@@ -62,4 +62,3 @@ Existem duas maneiras de reproduzir o arquivo, a primeira e mais simples, consis
 A segunda forma se torna um pouco mais complexa pelo fato de que o usuário precisa configurar um ambiente para executar o arquivo direto do código fonte. Neste link é possível ver um tutorial ensinando a preparar o ambiente “https://www.youtube.com/watch?v=YlvBcafLfhs”. Depois do ambiente ser preparado e está totalmente preparado basta abrir o projeto e executar. 
 
 Obs.: Como o projeto faz o uso de texturas, lembre de sempre que mudar o diretorio do projeto o caminho para as imagens também precisam ser mudadas, caso opte por executar o rojeto direto no dódigo fonte.
- 
